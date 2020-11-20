@@ -121,8 +121,8 @@ module.exports = function (grunt) {
           'http://10.8.205.171:3000': { color: 'blue' }
         },
         development: {
-          apiUrl: 'http://localhost:7111/',
-          staticUrl: 'http://localhost:3000/',
+          apiUrl: 'http://54.151.182.209:7111/',
+          staticUrl: 'http://54.151.182.209:3000/',
           assetUrl: 'http://s3-us-west-2.amazonaws.com/assets.sagelyweb.com/',
           queryUrl: 'http://localhost:7311/',
           slideshowUrl: 'http://localhost:7112/',
